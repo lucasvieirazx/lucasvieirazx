@@ -2,7 +2,7 @@
 <h3>Hi, my name is Lucas. I'm a young university student looking to get my first internship and work in the programming area.
 </h3><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieirazx&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieirazx&langs_count=8)
 
 <h1>💻 Tech Stack</h1>
 <div style="display: inline_block">
