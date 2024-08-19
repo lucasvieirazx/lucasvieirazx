@@ -6,7 +6,7 @@
 
 <h1>💻 Tech Stack Data Analyst</h1>
 <div style="display: inline_block">
-  <img align="center" alt="Lucas-Python" src="https://camo.githubusercontent.com/6f6db71701aa8ed56a3a013b284e95f0f34dcd03a3a70e4397a586ec500982af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d4632433831313f7374796c653d666c6174266c6f676f3d506f7765722d4249266c6f676f436f6c6f723d626c61636b">
+  <img align="center" alt="Lucas-PowerBi" src="https://camo.githubusercontent.com/6f6db71701aa8ed56a3a013b284e95f0f34dcd03a3a70e4397a586ec500982af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d4632433831313f7374796c653d666c6174266c6f676f3d506f7765722d4249266c6f676f436f6c6f723d626c61636b">
   <img align="center" alt="Lucas-Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img align="center" alt="Lucas-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Lucas-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
