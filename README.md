@@ -1,5 +1,5 @@
 <h1>👋 Hi there</h1>
-<h3>Hi, my name is Lucas. I'm a young university student looking to get my first internship and work in the data area or programming area.
+<h3>I’m currently a Process Automation Intern, working with digital transformation and automation using tools such as Power BI, Excel, VBA, Power Apps, Power Automate (Desktop and Cloud), and UiPath. I have experience in data analysis and automation with Python, SQL, JavaScript, and C#, as well as knowledge in RPA methodologies, process analysis, and automation testing.
 </h3><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieirazx&langs_count=8)
