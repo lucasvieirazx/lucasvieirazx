@@ -1,37 +1,19 @@
-<h1>👋 Hi there</h1>
-<h3>I’m currently a Process Automation Intern, working with digital transformation and automation using tools such as Power BI, Excel, VBA, Power Apps, Power Automate (Desktop and Cloud), and UiPath. I have experience in data analysis and automation with Python, SQL, JavaScript, and C#, as well as knowledge in RPA methodologies, process analysis, and automation testing.
-</h3><br>
+<h1>👋 Hi, welcome</h1>
+
+<h3>
+I’m a Computer Engineer focused on Process Automation, Data Analysis, and Digital Transformation.
+I work building end-to-end automation solutions using Power Platform (Power Automate – Desktop & Cloud, Power Apps), Power BI, Excel, and VBA, aiming to optimize operational workflows, reduce manual effort, and increase efficiency.
+</h3>
+
+<h3>
+I have hands-on experience delivering automation solutions that generate significant time savings, applying data analysis, ETL concepts, and intelligent process design. I also work with AI-assisted document reading and automation, bringing intelligence into operational routines.
+</h3>
+
+<h3>
+My technical background includes data analysis and automation using Python, SQL, JavaScript, and C#, with solid foundations in programming logic, process modeling, and scalable solution development.
+I’m strongly interested in roles related to RPA Development, Intelligent Automation, and Data Analysis, where automation and data drive real business impact.
+</h3>
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieirazx&langs_count=8)
-
-<h1>💻 Tech Stack Data Analyst</h1>
-<div style="display: inline_block">
-  <img align="center" alt="Lucas-PowerBi" src="https://img.shields.io/badge/Power_BI-yellow">
-  <img align="center" alt="Lucas-Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" alt="Lucas-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Lucas-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
-<h1>💻 Tech Stack Front-end</h1>
-<div style="display: inline_block">
-  <img align="center" alt="Lucas-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Lucas-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Lucas-Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img align="center" alt="Lucas-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Lucas-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="center" alt="Lucas-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Lucas-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-  <h1>💻 Others Tech Stack </h1>
-  <img align="center" alt="Lucas-C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-   <img align="center" alt="Lucas-Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img align="center" alt="Lucas-AmazonAWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="center" alt="Lucas-GoogleCloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img align="center" alt="Lucas-Automate" src="https://img.shields.io/badge/Power_Automate-blue">
-  <img align="center" alt="Lucas-Apps" src="https://img.shields.io/badge/Power_Apps-purple">
-</div><br>
-
-<h1>🌐 Socials:</h1>
-<div> 
-  <a href="https://www.linkedin.com/in/lucassvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucasvieirajob1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/lucasvieirazx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
